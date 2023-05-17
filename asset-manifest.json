@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/SughoshBhargav/TodoList.git/static/js/main.21d98691.chunk.js",
+    "main.js.map": "/SughoshBhargav/TodoList.git/static/js/main.21d98691.chunk.js.map",
+    "runtime-main.js": "/SughoshBhargav/TodoList.git/static/js/runtime-main.162e722a.js",
+    "runtime-main.js.map": "/SughoshBhargav/TodoList.git/static/js/runtime-main.162e722a.js.map",
+    "static/js/2.05d131db.chunk.js": "/SughoshBhargav/TodoList.git/static/js/2.05d131db.chunk.js",
+    "static/js/2.05d131db.chunk.js.map": "/SughoshBhargav/TodoList.git/static/js/2.05d131db.chunk.js.map",
+    "index.html": "/SughoshBhargav/TodoList.git/index.html",
+    "precache-manifest.fee468173f6370a17fd1df1a9a751256.js": "/SughoshBhargav/TodoList.git/precache-manifest.fee468173f6370a17fd1df1a9a751256.js",
+    "service-worker.js": "/SughoshBhargav/TodoList.git/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.162e722a.js",
+    "static/js/2.05d131db.chunk.js",
+    "static/js/main.21d98691.chunk.js"
+  ]
+}
